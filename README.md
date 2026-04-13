@@ -36,4 +36,10 @@ L'interface a été personnalisée pour offrir une meilleure expérience utilisa
 ##  Installation
 1. Cloner le dépôt : 
    ```bash
-   git clone [https://github.com/ton-nom-utilisateur/maitotoast.git](https://github.com/ton-nom-utilisateur/maitotoast.git)
+   git clone [https://github.com/MAITO465/Lab1.git](https://github.com/MAITO465/Lab1.git)
+
+2. Ouvrez le projet avec Android Studio.
+
+3. Laissez Gradle synchroniser les dépendances.
+
+4. Lancez l'application sur un émulateur ou un appareil physique via le bouton Run (Shift + F10).
